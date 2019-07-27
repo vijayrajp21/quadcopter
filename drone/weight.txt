@@ -1,0 +1,26 @@
+frame : 120 (114)
+motor : 40*4=160 ( 140)
+fc: 40(32)
+gps: 10(5.3)
+reciver:10 (6.4)
+battery : 250 (200)
+props : 10*4=40 (25)
+vtx :  40 (25)
+camera : 50 (40)
+wires : 80
+all unit in grams 
+
+total max weight : 800 approx (assuming worst case)
+
+for 1 motor max thrust at 11.2V can pull 800gm (830) so
+assuming worst case 1 motor can pull only 500gm 
+4*500=2000
+
+worst case
+weight to thrust ratio
+2.5 : 1
+
+best case 
+1 motor pull 800 gms
+4*800=2400
+3 : 1

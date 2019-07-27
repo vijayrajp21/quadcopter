@@ -1,0 +1,19 @@
+1)Transmitter and Receiver:
+  Frequency and Channels
+  Range Technology-The output power of transmitter,The sensitivity of the Receiver,antennas 
+  *Communication Protocols: should  be compitable to the flight controller software.(PWM,PPM,Digital Protocols (SBUS, IBUS, DSM2/X) )
+   Transmitter Channels: switches and controls(each channel is set for specific tasks)
+
+2)frame :
+   wood preferred 2.5mm thick
+
+3)motor :
+   Weight of your drone
+   Thrust to weight ratio:motor should be able to lift 2 times the weight of drone.
+   rpm
+   Pole Count: higher the better but more power consumptions 
+   *Brushless DC motor:high efficiency
+
+4)ESC:
+  size of esc : max amount of current supplied to motor through esc also voltage.
+ 
